@@ -32,7 +32,7 @@ footer { background-color: #1b2a49; color: white; text-align: center; padding: 2
 form { max-width: 400px; }
 input, textarea { width: 100%; padding: 8px; margin-top: 5px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;}
 button { background-color: #ffd166; color: black; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; }
-button:hover { backround-color: #274690;}
+button:hover { background-color: #274690;}
 h2 { margin-top: 30px; border-bottom: 3px solid #ffd166; padding-bottom: 5px;}
 section { background-color: white; padding: 25px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);}
 ol li { margin-bottom: 10px; padding-left: 5px; }
